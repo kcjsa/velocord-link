@@ -1,0 +1,8 @@
+{
+  "id": "firebaseauth",
+  "name": "FirebaseAuthPlugin",
+  "version": "1.0.0",
+  "description": "Discord/Gamertag 認証プラグイン",
+  "main": "com.example.firebaseauth.FirebaseAuthPlugin",
+  "authors": ["kr"]
+}
